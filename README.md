@@ -1,2 +1,3 @@
 # Todo-List
-This my first  repository
+This is my first  repository
+Author-Tanmay Dalvi
